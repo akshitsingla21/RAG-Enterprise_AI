@@ -1,6 +1,14 @@
+# Python environment and cache
 **/.venv/
 **/__pycache__/
 *.pyc
+
+# Secrets
 **/.env
 **/.env.*
+
+# Uploaded documents
 backend/uploads/
+
+# Local project documentation
+*.md
