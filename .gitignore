@@ -10,5 +10,11 @@
 # Uploaded documents
 backend/uploads/
 
-# Local project documentation
-*.md
+# Pytest cache
+**/.pytest_cache/
+
+# Internal planning and AI-assistant instructions (kept local, not public)
+AGENTS.md
+CLAUDE.md
+docs/PRD.md
+docs/TASKS.md
